@@ -5,6 +5,7 @@ int main()
 {
 	cout << "Hello GIT!!!" << endl;
 	cout << "Сохранение выполнено! " << endl;
+	cout << "Change enter! " << endl;
 
 
 	return 0;
